@@ -1,0 +1,63 @@
+.conten{
+    font-family: 微软雅黑，宋体;
+    display: flex;
+    font-size: 14px;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    background-image: url("../assets/img/bg.png");
+    color: #FFFFFF;
+    flex-direction: column;
+}
+
+.info{
+    padding: 20px;
+    background: #FFFFFF;
+    background:rgba(0, 0, 0, 0.5);
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+.today{
+    padding-top: 50rpx;
+    height: 50%;
+}
+
+.city{
+    color: white;
+    font-size: 16px;
+    text-align: right;
+    margin-right: 10rpx;
+    margin-top: 30rpx;
+}
+
+.temp{
+    font-size: 50px;
+    text-align: center;
+}
+
+.weather{
+    text-align: center;
+}
+
+.future{
+    display: flex;
+    flex-direction: row;
+    height: 40%;
+    padding-left: 5rpx;
+    background: #FFFFFF;
+    background:rgba(0, 0, 0, 0.1);
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    padding-top: 10rpx;
+    padding-bottom: 20rpx;
+}
+
+.future-item{
+    min-height: 100%;
+    width: 165rpx;
+    margin-left: 10rpx;
+    margin-right: 10rpx;
+    border: 1px solid coral;
+    border-radius: 10px;
+    padding-top: 10rpx;
+}
