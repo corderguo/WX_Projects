@@ -11,7 +11,7 @@
 
 <center>
 
-![](http://oet7ffdgt.bkt.clouddn.com/wx-calculator.jpg)
+<img src="http://oet7ffdgt.bkt.clouddn.com/wx-calculator.jpg" width="20%" height="20%" />
 
 </center>
 
@@ -23,9 +23,10 @@
 
 <center>
 
-![](http://oet7ffdgt.bkt.clouddn.com/wx-weather.jpg)
+<img src="http://oet7ffdgt.bkt.clouddn.com/wx-weather.jpg" width="20%" height="20%" />
 
 </center>
+
 
 
 
